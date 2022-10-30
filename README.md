@@ -7,4 +7,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcelikmasat&langs_count=8" />
 </a>
 
-LinkedIn: https://www.linkedin.com/in/g%C3%B6kberk-%C3%A7elikmasat/
+LinkedIn: https://www.linkedin.com/in/gokberk-celikmasat/
